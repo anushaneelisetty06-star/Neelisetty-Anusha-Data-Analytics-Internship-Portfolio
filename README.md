@@ -14,15 +14,19 @@ Duration: Internship Program
 ## Projects Included
 ### Task 1 – Data Immersion & Wrangling
 Data preprocessing, cleaning, transformation, and quality improvement of COVID-19 datasets.
+link : https://github.com/anushaneelisetty06-star/covid_19---data-immersion-and-wrangling-.git
 
 ### Task 2 – EDA & Business Intelligence
 Exploratory data analysis, KPI tracking, trend analysis, and business insight generation.
+link : https://github.com/anushaneelisetty06-star/EDA-and-Business-Intelligence.git
 
 ### Task 3 – Deep-Dive Analysis & Interactive Dashboarding
 Development of interactive Power BI dashboards for COVID-19 analytics and decision-making.
+link : https://github.com/anushaneelisetty06-star/COVID-19-Business-Intelligence-Dashboard.git
 
 ### Task 4 – Data Storytelling & Statistical Validation
 Presentation of analytical findings using storytelling techniques and statistical validation methods.
+link : https://github.com/anushaneelisetty06-star/COVID19-Data-Storytelling-Statistical-Validation.git
 
 ### Task 5 – Capstone Integration & Portfolio Finalization
 Creation of a professional portfolio integrating all internship deliverables.
